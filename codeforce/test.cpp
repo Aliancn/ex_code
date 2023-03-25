@@ -15,8 +15,10 @@ signed main() {
 	#endif
 	ios::sync_with_stdio(false);
 	cin.tie(0),cout.tie(0);
-	cout<<"ak!"<<endl;
-	return 0;
+
+    int a = ceil((5-1)/4);
+    cout<<a<<endl;
+    return 0;
 	int T;
 	cin>>T;
 	while(T--) {
