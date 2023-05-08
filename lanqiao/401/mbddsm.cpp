@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int n,m;
+int n,m;                                                                                    
 int vis[100000+1000];
 int main(){
     ios::sync_with_stdio(false);
