@@ -2,8 +2,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    freopen("Code/in.in","r" ,stdin);
-    freopen("Code/out.out","w",stdout);
+    freopen("in.in","r" ,stdin);
+    freopen("out.out","w",stdout);
     int a;
     cin>>a;
     cout<<a<<endl;

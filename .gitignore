@@ -16,6 +16,8 @@ dist-ssr
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-.bat
-.sh
+*.bat
+*.sh
+**/*.sh
+**/*.bat
 .code-workspace
