@@ -18,3 +18,4 @@ dist-ssr
 *.code-workspace
 .bat
 .sh
+.code-workspace
