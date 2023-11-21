@@ -1,4 +1,7 @@
 #include <iostream>
+#include<vector>
+#include<algorithm>
+#include<cstring>
 #define Local
 using namespace std;
 typedef long long ll;
